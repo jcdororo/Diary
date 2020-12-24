@@ -24,4 +24,5 @@ cmd에서 자바실행도 못하는 사람이 있어서
 
 ---------------------------------------
 2020.12.24 국비 4일차   
-boolean true false 연산 
+boolean true false 연산   
+ASCII코드,확장 ASCII코드
